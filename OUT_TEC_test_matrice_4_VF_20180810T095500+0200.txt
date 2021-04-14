@@ -1,0 +1,263 @@
+Textbox13,TextboxDetailsOverrunsPowers,Textbox3
+Informations,Détails des dépassements de puissances souscrites,Aucune donnée disponible
+
+Textbox1,TextboxTitle,Textbox2
+Du 11/02/2013 au 15/02/2013,Courbe de charge électrique par heure,Compression > TGBT 50Hz Compression
+
+TextboxLegendSubscribedPower,TextboxLegendAveragePower,TextboxLegendExcessSubscribedPower
+Puissance souscrite,Puissance moyenne,Dépas. P. souscrite
+
+TextboxLegendPeriod,TextboxLegendSubscribedPowerAbr,PeriodDesc,Puissance2
+Période,Puis. sous.,HCreuseH,4 500 kW
+Période,Puis. sous.,HPleineH,4 500 kW
+Période,Puis. sous.,HPointeH,4 500 kW
+
+TextboxLegendCoefSubscribedPower,PeriodDesc2
+"Coefficient Puis. sous.,"" 1,00"""
+
+Puissance_label,Puissance_Chart2_CategoryGroup_label,Puissance_Chart2_CategoryGroup_Value_Y,Load Curve_label,Load Curve_Chart2_CategoryGroup_Value_Y
+Puissance,11/02/13 01:00,4500,Load Curve,840.84
+Puissance,11/02/13 02:00,4500,Load Curve,853.26
+Puissance,11/02/13 03:00,4500,Load Curve,831
+Puissance,11/02/13 04:00,4500,Load Curve,838.08
+Puissance,11/02/13 05:00,4500,Load Curve,843.66
+Puissance,11/02/13 06:00,4500,Load Curve,895.56
+Puissance,11/02/13 07:00,4500,Load Curve,906.6
+Puissance,11/02/13 08:00,4500,Load Curve,866.46
+Puissance,11/02/13 09:00,4500,Load Curve,916.128
+Puissance,11/02/13 10:00,4500,Load Curve,958.62
+Puissance,11/02/13 11:00,4500,Load Curve,967.92
+Puissance,11/02/13 12:00,4500,Load Curve,897.18
+Puissance,11/02/13 13:00,4500,Load Curve,903.54
+Puissance,11/02/13 14:00,4500,Load Curve,1008.48
+Puissance,11/02/13 15:00,4500,Load Curve,960.72
+Puissance,11/02/13 16:00,4500,Load Curve,937.26
+Puissance,11/02/13 17:00,4500,Load Curve,863.76
+Puissance,11/02/13 18:00,4500,Load Curve,844.26
+Puissance,11/02/13 19:00,4500,Load Curve,817.32
+Puissance,11/02/13 20:00,4500,Load Curve,877.5
+Puissance,11/02/13 21:00,4500,Load Curve,845.28
+Puissance,11/02/13 22:00,4500,Load Curve,817.56
+Puissance,11/02/13 23:00,4500,Load Curve,800.76
+Puissance,12/02/13 00:00,4500,Load Curve,799.38
+Puissance,12/02/13 01:00,4500,Load Curve,796.14
+Puissance,12/02/13 02:00,4500,Load Curve,797.7
+Puissance,12/02/13 03:00,4500,Load Curve,793.56
+Puissance,12/02/13 04:00,4500,Load Curve,795.3
+Puissance,12/02/13 05:00,4500,Load Curve,798.18
+Puissance,12/02/13 06:00,4500,Load Curve,826.44
+Puissance,12/02/13 07:00,4500,Load Curve,857.7
+Puissance,12/02/13 08:00,4500,Load Curve,865.2
+Puissance,12/02/13 09:00,4500,Load Curve,928.44
+Puissance,12/02/13 10:00,4500,Load Curve,965.82
+Puissance,12/02/13 11:00,4500,Load Curve,979.44
+Puissance,12/02/13 12:00,4500,Load Curve,867.36
+Puissance,12/02/13 13:00,4500,Load Curve,862.74
+Puissance,12/02/13 14:00,4500,Load Curve,974.7
+Puissance,12/02/13 15:00,4500,Load Curve,1017.96
+Puissance,12/02/13 16:00,4500,Load Curve,939.9
+Puissance,12/02/13 17:00,4500,Load Curve,839.22
+Puissance,12/02/13 18:00,4500,Load Curve,846.48
+Puissance,12/02/13 19:00,4500,Load Curve,825.36
+Puissance,12/02/13 20:00,4500,Load Curve,809.04
+Puissance,12/02/13 21:00,4500,Load Curve,815.4
+Puissance,12/02/13 22:00,4500,Load Curve,802.26
+Puissance,12/02/13 23:00,4500,Load Curve,757.92
+Puissance,13/02/13 00:00,4500,Load Curve,767.7
+Puissance,13/02/13 01:00,4500,Load Curve,766.86
+Puissance,13/02/13 02:00,4500,Load Curve,771.24
+Puissance,13/02/13 03:00,4500,Load Curve,770.4
+Puissance,13/02/13 04:00,4500,Load Curve,764.64
+Puissance,13/02/13 05:00,4500,Load Curve,763.62
+Puissance,13/02/13 06:00,4500,Load Curve,794.82
+Puissance,13/02/13 07:00,4500,Load Curve,818.4
+Puissance,13/02/13 08:00,4500,Load Curve,836.46
+Puissance,13/02/13 09:00,4500,Load Curve,916.2
+Puissance,13/02/13 10:00,4500,Load Curve,885.18
+Puissance,13/02/13 11:00,4500,Load Curve,952.26
+Puissance,13/02/13 12:00,4500,Load Curve,849.18
+Puissance,13/02/13 13:00,4500,Load Curve,844.02
+Puissance,13/02/13 14:00,4500,Load Curve,911.46
+Puissance,13/02/13 15:00,4500,Load Curve,975
+Puissance,13/02/13 16:00,4500,Load Curve,979.02
+Puissance,13/02/13 17:00,4500,Load Curve,853.8
+Puissance,13/02/13 18:00,4500,Load Curve,820.92
+Puissance,13/02/13 19:00,4500,Load Curve,807
+Puissance,13/02/13 20:00,4500,Load Curve,794.34
+Puissance,13/02/13 21:00,4500,Load Curve,766.98
+Puissance,13/02/13 22:00,4500,Load Curve,785.94
+Puissance,13/02/13 23:00,4500,Load Curve,772.32
+Puissance,14/02/13 00:00,4500,Load Curve,772.02
+Puissance,14/02/13 01:00,4500,Load Curve,779.22
+Puissance,14/02/13 02:00,4500,Load Curve,769.56
+Puissance,14/02/13 03:00,4500,Load Curve,777.3
+Puissance,14/02/13 04:00,4500,Load Curve,774
+Puissance,14/02/13 05:00,4500,Load Curve,781.08
+Puissance,14/02/13 06:00,4500,Load Curve,794.58
+Puissance,14/02/13 07:00,4500,Load Curve,814.38
+Puissance,14/02/13 08:00,4500,Load Curve,839.1
+Puissance,14/02/13 09:00,4500,Load Curve,872.58
+Puissance,14/02/13 10:00,4500,Load Curve,850.74
+Puissance,14/02/13 11:00,4500,Load Curve,714.06
+Puissance,14/02/13 12:00,4500,Load Curve,777.48
+Puissance,14/02/13 13:00,4500,Load Curve,831.6
+Puissance,14/02/13 14:00,4500,Load Curve,874.02
+Puissance,14/02/13 15:00,4500,Load Curve,908.04
+Puissance,14/02/13 16:00,4500,Load Curve,877.8
+Puissance,14/02/13 17:00,4500,Load Curve,826.62
+Puissance,14/02/13 18:00,4500,Load Curve,806.04
+Puissance,14/02/13 19:00,4500,Load Curve,799.44
+Puissance,14/02/13 20:00,4500,Load Curve,808.26
+Puissance,14/02/13 21:00,4500,Load Curve,788.76
+Puissance,14/02/13 22:00,4500,Load Curve,784.74
+Puissance,14/02/13 23:00,4500,Load Curve,783.12
+Puissance,15/02/13 00:00,4500,Load Curve,773.64
+Puissance,15/02/13 01:00,4500,Load Curve,775.86
+Puissance,15/02/13 02:00,4500,Load Curve,773.82
+Puissance,15/02/13 03:00,4500,Load Curve,776.58
+Puissance,15/02/13 04:00,4500,Load Curve,774.12
+Puissance,15/02/13 05:00,4500,Load Curve,775.62
+Puissance,15/02/13 06:00,4500,Load Curve,794.82
+Puissance,15/02/13 07:00,4500,Load Curve,823.02
+Puissance,15/02/13 08:00,4500,Load Curve,865.14
+Puissance,15/02/13 09:00,4500,Load Curve,884.34
+Puissance,15/02/13 10:00,4500,Load Curve,867.24
+Puissance,15/02/13 11:00,4500,Load Curve,879.84
+Puissance,15/02/13 12:00,4500,Load Curve,819.6
+Puissance,15/02/13 13:00,4500,Load Curve,834.06
+Puissance,15/02/13 14:00,4500,Load Curve,806.832
+Puissance,15/02/13 15:00,4500,Load Curve,792
+Puissance,15/02/13 16:00,4500,Load Curve,826.14
+Puissance,15/02/13 17:00,4500,Load Curve,800.28
+Puissance,15/02/13 18:00,4500,Load Curve,798.12
+Puissance,15/02/13 19:00,4500,Load Curve,789.66
+Puissance,15/02/13 20:00,4500,Load Curve,780.66
+Puissance,15/02/13 21:00,4500,Load Curve,771.36
+Puissance,15/02/13 22:00,4500,Load Curve,762.78
+Puissance,15/02/13 23:00,4500,Load Curve,764.46
+Puissance,16/02/13 00:00,4500,Load Curve,754.44
+
+TextboxAveragePower,TextboxSubscribedPower,Textbox51,Textbox59,TextboxAverage,Textbox42,Annee2,LoadCurve2,Mois2,LoadCurve1,Date,Textbox38,PeriodDesc1,textbox24,LoadCurve,Puissance3
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HCreuseH,11/02/13 01:00,841,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HCreuseH,11/02/13 02:00,853,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HCreuseH,11/02/13 03:00,831,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HCreuseH,11/02/13 04:00,838,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HCreuseH,11/02/13 05:00,844,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HCreuseH,11/02/13 06:00,896,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 07:00,907,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 08:00,866,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 09:00,916,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPointeH,11/02/13 10:00,959,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPointeH,11/02/13 11:00,968,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 12:00,897,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 13:00,904,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 14:00,1 008,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 15:00,961,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 16:00,937,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 17:00,864,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 18:00,844,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPointeH,11/02/13 19:00,817,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPointeH,11/02/13 20:00,878,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 21:00,845,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HPleineH,11/02/13 22:00,818,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HCreuseH,11/02/13 23:00,801,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,lundi 11 février 2013,879,HCreuseH,12/02/13 00:00,799,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HCreuseH,12/02/13 01:00,796,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HCreuseH,12/02/13 02:00,798,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HCreuseH,12/02/13 03:00,794,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HCreuseH,12/02/13 04:00,795,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HCreuseH,12/02/13 05:00,798,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HCreuseH,12/02/13 06:00,826,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 07:00,858,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 08:00,865,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 09:00,928,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPointeH,12/02/13 10:00,966,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPointeH,12/02/13 11:00,979,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 12:00,867,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 13:00,863,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 14:00,975,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 15:00,1 018,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 16:00,940,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 17:00,839,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 18:00,846,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPointeH,12/02/13 19:00,825,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPointeH,12/02/13 20:00,809,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 21:00,815,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HPleineH,12/02/13 22:00,802,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HCreuseH,12/02/13 23:00,758,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mardi 12 février 2013,855,HCreuseH,13/02/13 00:00,768,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HCreuseH,13/02/13 01:00,767,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HCreuseH,13/02/13 02:00,771,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HCreuseH,13/02/13 03:00,770,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HCreuseH,13/02/13 04:00,765,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HCreuseH,13/02/13 05:00,764,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HCreuseH,13/02/13 06:00,795,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 07:00,818,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 08:00,836,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 09:00,916,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPointeH,13/02/13 10:00,885,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPointeH,13/02/13 11:00,952,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 12:00,849,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 13:00,844,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 14:00,911,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 15:00,975,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 16:00,979,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 17:00,854,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 18:00,821,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPointeH,13/02/13 19:00,807,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPointeH,13/02/13 20:00,794,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 21:00,767,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HPleineH,13/02/13 22:00,786,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HCreuseH,13/02/13 23:00,772,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,mercredi 13 février 2013,832,HCreuseH,14/02/13 00:00,772,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HCreuseH,14/02/13 01:00,779,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HCreuseH,14/02/13 02:00,770,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HCreuseH,14/02/13 03:00,777,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HCreuseH,14/02/13 04:00,774,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HCreuseH,14/02/13 05:00,781,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HCreuseH,14/02/13 06:00,795,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 07:00,814,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 08:00,839,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 09:00,873,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPointeH,14/02/13 10:00,851,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPointeH,14/02/13 11:00,714,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 12:00,777,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 13:00,832,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 14:00,874,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 15:00,908,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 16:00,878,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 17:00,827,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 18:00,806,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPointeH,14/02/13 19:00,799,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPointeH,14/02/13 20:00,808,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 21:00,789,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HPleineH,14/02/13 22:00,785,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HCreuseH,14/02/13 23:00,783,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,jeudi 14 février 2013,809,HCreuseH,15/02/13 00:00,774,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HCreuseH,15/02/13 01:00,776,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HCreuseH,15/02/13 02:00,774,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HCreuseH,15/02/13 03:00,777,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HCreuseH,15/02/13 04:00,774,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HCreuseH,15/02/13 05:00,776,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HCreuseH,15/02/13 06:00,795,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 07:00,823,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 08:00,865,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 09:00,884,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPointeH,15/02/13 10:00,867,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPointeH,15/02/13 11:00,880,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 12:00,820,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 13:00,834,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 14:00,807,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 15:00,792,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 16:00,826,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 17:00,800,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 18:00,798,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPointeH,15/02/13 19:00,790,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPointeH,15/02/13 20:00,781,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 21:00,771,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HPleineH,15/02/13 22:00,763,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HCreuseH,15/02/13 23:00,764,4 500
+Puissance moyenne,Puissance souscrite,kW,kW,Moyenne,836,2013,836,février,836,vendredi 15 février 2013,804,HCreuseH,16/02/13 00:00,754,4 500
+
+TextboxDetailsOverrunsPowers2,textboxOverrunStart,textboxOverrunEnd,TextboxOverrunDuration,TextboxPowerMax,textboxEnergyUsed,Textbox32,Textbox49,TextboxDetails,TextboxPowerAbr,TextboxPowerSubscribedAbr,Date1,Date2,TextboxDuree,Textbox33,textbox17,DatePeriodEnd,Comptage2,Puissance
+Détails des dépassements de puissances souscrites,Début du dépassement,Fin du dépassement,Durée (min.),Max. Puissance,Energie consommée,1 018 kW, ,,,,,,,,,,,
